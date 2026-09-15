@@ -77,8 +77,25 @@ const portfolioData = {
         'Improved problem-solving skills and backend development understanding',
       ],
     },
+    {
+      period:'MAY 2026 — JUN 2026',
+      title:'Full Stack Development',
+      company:'upSkill Campus .Hybrid',
+      color: 'teal',
+      points:[
+        'Developed responsive web applications.',
+        'Worked on HTML, CSS, and JavaScript for frontend development.',
+        'Used React.js to create interactive user interfaces.',
+        'Developed backend applications using Node.js.',    
+        'Created and tested REST APIs.',
+        'Worked with MySQL database and CRUD operations.',
+        'Implemented basic authentication and form validation.',
+        'Used Git and GitHub for version control.',
+          'Tested APIs using Postman.',
+         'Integrated frontend, backend, and database into complete web applications.',
+            'Worked on real-world projects and fixed bugs/debugged applications.',
   ],
-
+    },
   projects: [
     {
       num: '01',
@@ -104,7 +121,10 @@ const portfolioData = {
     degree: 'B.Tech in Computer Science Engineering',
     school: 'Gandhi Engineering College, Bhubaneswar',
     year: 'EXPECTED GRADUATION — APRIL 2028',
-    cert: '📜 Certified: Computer Architecture & Organization',
+    cert 📜:[
+  'Certified: Computer Architecture & Organization',
+  'Certified: Cloud computing',
+  ],
   },
 };
 
