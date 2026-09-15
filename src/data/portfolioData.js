@@ -2,7 +2,7 @@ const portfolioData = {
   personal: {
     name: 'Anish Kumar Singh',
     location: 'Bhubaneswar, Odisha',
-    phone: '+911234567890',
+    phone: '+917549139591',
     email: 'anishkumarsingh783@gmail.com',
     linkedin: 'https://www.linkedin.com/in/anish-kumar-singh-b06500329',
     roles: ['Developer', 'Engineer', 'Problem Solver', 'Full Stack Dev'],
