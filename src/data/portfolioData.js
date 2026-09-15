@@ -10,7 +10,7 @@ const portfolioData = {
       "I'm a Computer Science Engineering student at Gandhi Engineering College, Bhubaneswar, with a passion for full-stack web development and a drive to build meaningful digital experiences.",
     summary2:
       'My journey started with curiosity — taking apart how websites work, then learning to build them. Today, I combine strong fundamentals with hands-on experience from real-world internships.',
-    summary3:
+    summary3
       "I believe in clean code, intuitive UI, and continuous learning. Whether it's a React component or a Node.js API, I bring the same attention to detail and craftsmanship.",
   },
 
